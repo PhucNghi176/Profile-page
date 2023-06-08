@@ -115,6 +115,11 @@ a:active {
     z-index: 10;
 }
 
+.img-certification{
+    cursor: pointer;
+
+}
+
 .img-place>img {
     width: 100%;
     height: auto;
